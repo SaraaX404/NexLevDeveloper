@@ -311,7 +311,7 @@
                 <?php } ?>
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
+             </form>
           </div>
 
         </div>
