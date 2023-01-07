@@ -295,21 +295,6 @@
                 <label for="name">Message</label>
                 <textarea class="form-control" name="message" rows="10" required></textarea>
               </div>
-              <div class="my-3">
-                <!-- Display errors -->
-                <?php if (!empty($errors)) { ?>
-                <div class="error-message">
-                  <?php foreach ($errors as $error) { ?>
-                  <p><?php echo $error; ?></p>
-                  <?php } ?>
-                </div>
-                <?php } ?>
-
-                <!-- Display success message -->
-                <?php if (!empty($success)) { ?>
-                <div class="sent-message"><?php echo $success; ?></div>
-                <?php } ?>
-              </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
              </form>
           </div>
