@@ -1,0 +1,3 @@
+[build]
+  command = "php -S localhost:8000"
+  publish = "public"
