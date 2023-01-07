@@ -23,6 +23,7 @@
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
@@ -40,14 +41,13 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assets/img/profile.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">NexLev Developer</a></h1>
+        <img src="https://scontent.fcmb11-1.fna.fbcdn.net/v/t1.6435-9/158671809_448512403025151_5666418416518802628_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_ohc=swUzOfUMU6gAX86sGIt&_nc_ht=scontent.fcmb11-1.fna&oh=00_AfDfu3vU0vJYZDsX4zfbtUVWg0hFAdUf99fEv1M1LnFlww&oe=63E0C97E" alt="" class="img-fluid rounded-circle">
+        <h4 class="text-light"><a href="index.html">Thathsara Senanayaka</a></h4>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.facebook.com/saraaX123/" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/thathsarasenanayaka404/" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.linkedin.com/in/thathsara-senanayaka2003-onlne/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -68,8 +68,8 @@
   height: 100vh;
  background: url('./assets/img/cover.png') top center;background-size: cover;">
     <div class="hero-container" data-aos="fade-in">
-      <h1 style="color: white">NexLev Developer</h1>
-      <p style="color: white">I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer"></span></p>
+      <h1 style="color: white">Thathsara Senanayaka</h1>
+      <p style="color: white; padding: 20px">I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -133,7 +133,7 @@
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>NexLev Developer</h4>
+              <h4>Thathsara Senanayaka</h4>
               <p><em>Innovative and deadline-driven full stack developer with 1+ years of experience planning and developing user-friendly, high quality applications for comforting price.</em></p>
               <ul>
                 <li>No 01, First Lane, Galwanguwa, Embilipitiya</li>
@@ -238,61 +238,7 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
-      <div class="container">
 
-        <div class="section-title">
-          <h2>Testimonials</h2>
-          <p>  I am always trying to make happy my clients and team members.</p>
-        </div>
-
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-            <div class="swiper-slide">
-              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  He did a collaboration for a project that belongs to me. He did his best for that project and he was praised by many people in the field for the work he has done.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonial_01.jpg" class="testimonial-img" alt="">
-                <h3>stoXmod</h3>
-                <h4>MERN STACK DEVELOPER</h4>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/comming_soon.jpg" class="testimonial-img" alt="">
-                <h3>Comming Soon</h3>
-                <h4></h4>
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/comming_soon.jpg" class="testimonial-img" alt="">
-                <h3>Comming Soon</h3>
-                <h4></h4>
-              </div>
-            </div>
-
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -350,9 +296,19 @@
                 <textarea class="form-control" name="message" rows="10" required></textarea>
               </div>
               <div class="my-3">
-                <div class="loading">Loading</div>
-<!--                <div class="error-message"></div>-->
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <!-- Display errors -->
+                <?php if (!empty($errors)) { ?>
+                <div class="error-message">
+                  <?php foreach ($errors as $error) { ?>
+                  <p><?php echo $error; ?></p>
+                  <?php } ?>
+                </div>
+                <?php } ?>
+
+                <!-- Display success message -->
+                <?php if (!empty($success)) { ?>
+                <div class="sent-message"><?php echo $success; ?></div>
+                <?php } ?>
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
